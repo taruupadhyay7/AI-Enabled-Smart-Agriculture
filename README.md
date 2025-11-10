@@ -5,7 +5,7 @@ This project introduces an AI-enabled Smart Agriculture System that helps farmer
 
 The model uses a Decision Tree Classifier (Machine Learning) to predict whether irrigation is required or not, enabling data-driven and water-efficient farming.
 
-⚙️ Technologies Used
+⚙️ Technologies Used 
 
  Python 3.13
 
