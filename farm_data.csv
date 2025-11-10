@@ -1,0 +1,15 @@
+temperature,humidity,soil_moisture,irrigation_needed
+30,60,30,Yes
+25,80,70,No
+28,65,45,Yes
+35,40,25,Yes
+20,90,85,No
+26,75,55,No
+33,50,35,Yes
+27,68,65,No
+31,55,32,Yes
+24,82,72,No
+29,58,38,Yes
+22,88,80,No
+34,45,28,Yes
+23,86,78,No
